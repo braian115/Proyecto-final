@@ -1,0 +1,14 @@
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Clienteform.resources
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empleadoform.resources
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Productoform.resources
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\braia\Source\Repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FacturaForm2.resources
